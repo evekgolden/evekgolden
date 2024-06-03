@@ -14,6 +14,7 @@
 
 ![QtCreator](https://img.shields.io/badge/QtCreator-24292e?style=flat-square&logo=Qt)&nbsp;
 ![Git](https://img.shields.io/badge/Git-24292e?style=flat-square&logo=git)&nbsp;
+![Svn](https://img.shields.io/badge/Git-24292e?style=flat-square&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-24292e?style=flat-square&logo=markdown)&nbsp;
 
