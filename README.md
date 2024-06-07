@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Evek</h1>  
+<h1>Hi 👋, I'm Evek</h1>  
 
 ![](https://i.imgur.com/waxVImv.png)
 
