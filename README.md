@@ -1,5 +1,4 @@
 ### Hi, I'm Evek👋
->I am a Embedded Programmer.
 
 - 🏡 Blog：<a href="https://blog.cocodemo.site/" target="_blank">blog.cocodemo.site</a>
 - 💬 Mail：[evekgolden@outlook.com](evekgolden@outlook.com)
